@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
