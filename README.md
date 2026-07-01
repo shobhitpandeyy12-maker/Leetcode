@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
