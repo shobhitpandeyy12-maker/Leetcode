@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0013-roman-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
