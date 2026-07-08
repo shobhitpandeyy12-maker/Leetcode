@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
