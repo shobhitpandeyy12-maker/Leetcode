@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
