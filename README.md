@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
