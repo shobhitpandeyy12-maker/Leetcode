@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting Sort
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Brainteaser
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
