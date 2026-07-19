@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
