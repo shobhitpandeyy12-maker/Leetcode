@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0283-move-zeroes) |
+| [1260-shift-2d-grid](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
