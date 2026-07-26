@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
