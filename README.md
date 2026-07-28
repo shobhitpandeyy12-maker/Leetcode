@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
