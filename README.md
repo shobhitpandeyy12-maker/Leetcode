@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
