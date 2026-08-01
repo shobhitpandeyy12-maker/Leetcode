@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Prefix Sum
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
