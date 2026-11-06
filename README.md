@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0409-longest-palindrome) |
 | [1096-brace-expansion-ii](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2747-count-zero-request-servers](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shobhitpandeyy12-maker/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
